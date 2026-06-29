@@ -487,6 +487,8 @@ body.modo-noche .volver:hover {
    PIE DE PÁGINA
    ========================================================================== */
 footer {
+  margin-top: 100px; 
+  text-align: center;
   background-color: #0f172a;
   color: white;
 }
